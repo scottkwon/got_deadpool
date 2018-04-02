@@ -1,6 +1,6 @@
 # D E A D P O O L
 
-# Built with Java, Spring Boot, and MySQL
+# Built with Java, Spring Boot & Security, and MySQL
 
 Gather your friends and predict the next death on the wildly popular HBO Television Series: Game of Thrones. 
 
