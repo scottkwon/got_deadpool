@@ -5,4 +5,4 @@ Gather your friends and predict the next death on the wildly popular HBO Televis
 Each player is rewarded points based on:
   + Killer
   + Victim
-  Bonus points for getting both correct!
+  + Bonus points for getting both correct!
